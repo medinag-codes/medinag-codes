@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+My name is Medina and I am a Full Stack Software Engineer
+
+- 😄 Pronouns: she/her/hers
+- 🌱 I’m currently completing the Resilient Coders Bootcamp
+- 👾I recently built a simple calculator app called "Girl Math"
+- 📫 How to reach me: https://www.linkedin.com/in/medina-geyer/ 
+
+
 <!--
 **medinag-codes/medinag-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
