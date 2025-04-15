@@ -1,4 +1,4 @@
-![Beige Modern Elegant Personal LinkedIn Banner](https://github.com/user-attachments/assets/2b25eaea-abf4-47bb-8e3c-fc131993b6bc)
+![Beige Modern Elegant Personal LinkedIn Banner](https://github.com/user-attachments/assets/96927c4e-deb8-4b06-9d7e-9dc24231aab8)
 ## Hi there 👋
 
 My name is Medina and I am a Full Stack Software Engineer
