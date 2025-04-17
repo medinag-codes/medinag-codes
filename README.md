@@ -4,7 +4,7 @@
 My name is Medina and I am a Full Stack Software Engineer
 
 - 😄 Pronouns: she/her/hers
-- 🌱 I’m currently completing the Resilient Coders Bootcamp
+- 🌱 I’m currently a Software Engineering Fellow at Resilient Coders
 - 👾I recently built a simple calculator app called "Girl Math"
 - 📫 How to reach me: https://www.linkedin.com/in/medina-geyer/ 
 - ⚙️ Technologies I have worked with: 
