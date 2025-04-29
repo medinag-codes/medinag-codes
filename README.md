@@ -1,29 +1,25 @@
-![Beige Modern Elegant Personal LinkedIn Banner](https://github.com/user-attachments/assets/96927c4e-deb8-4b06-9d7e-9dc24231aab8)
-## Hi there 👋
+## 👋 Hi there! I'm Medina
 
-My name is Medina and I am a Full Stack Software Engineer
+I'm a **Full Stack Software Engineer** with a passion for building creative, user-centered web applications.
 
-- 😄 Pronouns: she/her/hers
-- 🌱 I’m currently a Software Engineering Fellow at Resilient Coders
-- 👾I recently built a matching card game called "Scentsational Matching Card Game"
-- 📫 How to reach me: https://www.linkedin.com/in/medina-geyer/ 
-- ⚙️ Technologies I have worked with: 
-<div align='center'>
+- 🔭 Currently a Software Engineering Fellow at **Resilient Coders**
+- 🧠 Recent project: [Scentsational Matching Card Game](#) — a fun memory game inspired by perfumes
+- 📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/medina-geyer/)
+- ⚙️ Tech Stack:
 
- [![HTML5](https://img.shields.io/badge/HTML-fb8f67?style=flat-square&logo=HTML5&logoColor=fdfffc)](https://html.com/)  [![JavaScript](https://img.shields.io/badge/JavaScript-172121?style=flat-square&logo=javascript)](https://www.javascript.com/) [![CSS3](https://img.shields.io/badge/CSS3-2ea3f2?style=flat-square&logo=css3&logoColor=fff)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![Node.js](https://img.shields.io/badge/Node.js-3c873a?style=flat-square&logo=Node.js&logoColor=fff)](https://nodejs.org/) [![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=fff)](https://expressjs.com/) [![MongoDB](https://img.shields.io/badge/MongoDB-47a248?style=flat-square&logo=mongodb&logoColor=fff)](https://www.mongodb.com/)
+<div align="center">
+
+[![HTML5](https://img.shields.io/badge/HTML-fb8f67?style=flat-square&logo=HTML5&logoColor=fdfffc)](https://html.com/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-172121?style=flat-square&logo=javascript)](https://www.javascript.com/)
+[![CSS3](https://img.shields.io/badge/CSS3-2ea3f2?style=flat-square&logo=css3&logoColor=fff)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Node.js](https://img.shields.io/badge/Node.js-3c873a?style=flat-square&logo=Node.js&logoColor=fff)](https://nodejs.org/)
+[![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=fff)](https://expressjs.com/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47a248?style=flat-square&logo=mongodb&logoColor=fff)](https://www.mongodb.com/)
+
 </div>
 
-<!--
-**medinag-codes/medinag-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Optional GitHub Stats -->
+![Medina's GitHub stats](https://github-readme-stats.vercel.app/api?username=medinageyer&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=medinageyer&layout=compact&theme=radical)
