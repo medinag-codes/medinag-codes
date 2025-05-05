@@ -3,7 +3,7 @@
 I'm a **Full Stack Software Engineer** with a passion for building creative, user-centered web applications.
 
 - 🔭 Currently a Software Engineering Fellow at **Resilient Coders**
-- 🧠 Recent project: [Scentsational Matching Card Game](https://github.com/medinag-codes/matching-card-bootcamp) — a fun memory game inspired by perfumes
+- 🧠 Recent project: [Secret Family Recipes](https://family-recipes-g9hi.onrender.com) — a recipe sharing app with user authorization and comments
 - 📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/medina-geyer/)
 - ⚙️ Tech Stack:
 
