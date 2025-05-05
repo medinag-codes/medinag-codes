@@ -1,13 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi,%20I'm%20Medina)
 
-I'm a former R&D Scientist turned **Full Stack Software Engineer**, blending analytical precision with creative problem-solving. My background in the laboratory sharpened my attention to detail and experimentation — skills I now bring to every line of code I write. 
-
-I’m especially drawn to front-end development, where logic meets aesthetics, and I get to build experiences that are both functional and beautiful. That duality — technical and creative — is what fuels my love for building intuitive, full-stack applications that make a real impact.
+I'm a R&D Scientist and Software Engineer, blending analytical precision with creative problem-solving. My background in the laboratory sharpened my attention to detail and experimentation skills I now bring to every line of code I write. 
 
 - 🔭 Currently a Software Engineering Fellow at **Resilient Coders**
-- 🧠 Recent project: [Secret Family Recipes](https://family-recipes-g9hi.onrender.com) — a recipe sharing app with user authorization and comments
-- 📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/medina-geyer/)
-- ⚙️ Tech Stack:
+
+---
+### ⚙️ *Tech Stack**
 
 <div align="center">
 
@@ -21,6 +19,11 @@ I’m especially drawn to front-end development, where logic meets aesthetics, a
 </div>
 
 ---
+### 🚧 *Recent Projects**
+- [Secret Family Recipes](https://family-recipes-g9hi.onrender.com) — a recipe sharing app with user authorization and comments
+
+###  📫 *Let's Connect**
+- [LinkedIn](https://www.linkedin.com/in/medina-geyer/)
 
 <!-- Optional GitHub Stats -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=medinag-codes&layout=compact&theme=radical)
