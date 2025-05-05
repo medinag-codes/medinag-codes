@@ -1,5 +1,3 @@
-## 👋 Hi there! I'm Medina
-
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi,%20I'm%20Medina)
 
 I'm a former R&D Scientist turned **Full Stack Software Engineer**, blending analytical precision with creative problem-solving. My background in the laboratory sharpened my attention to detail and experimentation — skills I now bring to every line of code I write. 
