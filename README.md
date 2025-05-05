@@ -22,8 +22,10 @@ I'm a R&D Scientist and Software Engineer, blending analytical precision with cr
 ### 🚧 *Recent Projects*
 - [Secret Family Recipes](https://family-recipes-g9hi.onrender.com) — a recipe sharing app with user authorization and comments
 
+---
 ###  📫 *Let's Connect*
 - [LinkedIn](https://www.linkedin.com/in/medina-geyer/)
 
 <!-- Optional GitHub Stats -->
+---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=medinag-codes&layout=compact&theme=radical)
