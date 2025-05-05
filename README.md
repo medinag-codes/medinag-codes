@@ -5,7 +5,7 @@ I'm a R&D Scientist and Software Engineer, blending analytical precision with cr
 - 🔭 Currently a Software Engineering Fellow at **Resilient Coders**
 
 ---
-### ⚙️ *Tech Stack**
+### ⚙️ *Tech Stack*
 
 <div align="center">
 
@@ -19,10 +19,10 @@ I'm a R&D Scientist and Software Engineer, blending analytical precision with cr
 </div>
 
 ---
-### 🚧 *Recent Projects**
+### 🚧 *Recent Projects*
 - [Secret Family Recipes](https://family-recipes-g9hi.onrender.com) — a recipe sharing app with user authorization and comments
 
-###  📫 *Let's Connect**
+###  📫 *Let's Connect*
 - [LinkedIn](https://www.linkedin.com/in/medina-geyer/)
 
 <!-- Optional GitHub Stats -->
