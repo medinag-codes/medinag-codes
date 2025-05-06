@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi,%20I'm%20Medina)
 
-I'm a R&D Scientist and Software Engineer, blending analytical precision with creative problem-solving. My background in the laboratory sharpened my attention to detail and experimentation skills that I now bring to every line of code I write. 
+I'm a Software Engineer and R&D Scientist, blending analytical precision with creative problem-solving. My background in the laboratory sharpened my attention to detail and experimentation skills that I now bring to every line of code I write. 
 
 - 🔭 Currently a Software Engineering Fellow at **Resilient Coders**
 
