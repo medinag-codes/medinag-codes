@@ -20,11 +20,15 @@ I'm a R&D Scientist and Software Engineer, blending analytical precision with cr
 
 ---
 ### 🚧 *Recent Projects*
-- [Secret Family Recipes](https://family-recipes-g9hi.onrender.com) — a recipe sharing app with user authorization and comments
+- [Hue Lab](#)
+- [Bill Split](#)
+- [Secret Family Recipes](https://family-recipes-g9hi.onrender.com)
+- [Scentsational Match](#)
 
 ---
 ###  📫 *Let's Connect*
 - [LinkedIn](https://www.linkedin.com/in/medina-geyer/)
+- [Portfolio](https://www.medinageyer.com)
 
 <!-- Optional GitHub Stats -->
 ---
