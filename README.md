@@ -21,7 +21,7 @@ I'm a Software Engineer and R&D Scientist, blending analytical precision with cr
 ---
 ### 🚧 *Recent Projects*
 - [Hue Lab](#)
-- [Bill Split](#)
+- [Bill Split](https://bill-split-8syg.onrender.com)
 - [Secret Family Recipes](https://family-recipes-g9hi.onrender.com)
 - [Scentsational Match](#)
 
