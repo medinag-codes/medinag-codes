@@ -23,7 +23,7 @@ I'm a Software Engineer and R&D Scientist, blending analytical precision with cr
 - [Hue Lab](#)
 - [Bill Split](https://bill-split-8syg.onrender.com)
 - [Secret Family Recipes](https://family-recipes-g9hi.onrender.com)
-- [Scentsational Match](#)
+- [Scentsational Match](https://scentsational-match.netlify.app/)
 
 ---
 ###  📫 *Let's Connect*
